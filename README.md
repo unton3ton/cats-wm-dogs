@@ -1,7 +1,10 @@
-Обучение на CPU ~ 36 часов
+Обучение на CPU ~ 32 часов (6 ядер)
 
 
 ![](https://raw.githubusercontent.com/unton3ton/cats-wm-dogs/main/img/%D1%8B.jpg)
+
+
+![](https://raw.githubusercontent.com/unton3ton/cats-wm-dogs/main/total.PNG)
 
 
 ![](https://raw.githubusercontent.com/unton3ton/cats-wm-dogs/main/img/example.PNG)
